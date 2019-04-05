@@ -3,7 +3,7 @@
 
 * [Descendants.cs](./CS/Descendants.cs) (VB: [Descendants.vb](./VB/Descendants.vb))
 * [GroupFooter.cs](./CS/GroupFooter.cs) (VB: [GroupFooter.vb](./VB/GroupFooter.vb))
-* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml](./VB/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
 * [Generic.xaml](./CS/Themes/Generic.xaml) (VB: [Generic.xaml](./VB/Themes/Generic.xaml))
 * [GridControlTemplates.xaml](./CS/Themes/GridControlTemplates.xaml) (VB: [GridControlTemplates.xaml](./VB/Themes/GridControlTemplates.xaml))
